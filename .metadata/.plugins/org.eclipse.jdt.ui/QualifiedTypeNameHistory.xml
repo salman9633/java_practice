@@ -55,4 +55,9 @@
     <fullyQualifiedTypeName name="singlyLinkedList.singlyLinkedList.Node"/>
     <fullyQualifiedTypeName name="doublyLinkedList.DLinkedList.Node"/>
     <fullyQualifiedTypeName name="doublyLinkedList.DLinkedList"/>
+    <fullyQualifiedTypeName name="stack.stack.Node"/>
+    <fullyQualifiedTypeName name="stack.stack"/>
+    <fullyQualifiedTypeName name="Queue"/>
+    <fullyQualifiedTypeName name="org.w3c.dom.Node"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
 </qualifiedTypeNameHistroy>
